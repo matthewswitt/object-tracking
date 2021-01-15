@@ -4,4 +4,4 @@ Developed software that utilizes computer vision and OpenCV in Python to track d
 
 An example of the software tracking same colour but different shades:
 <br>
-<img src="https://github.com/matthewswitt/ball-tracking/blob/main/DemoTrack/green.gif" width="400" height="175" align="left">
+<img src="https://github.com/matthewswitt/ball-tracking/blob/main/DemoTrack/green.gif" width="400" height="250" align="left">
